@@ -1,3 +1,2 @@
 # Responsive-website-using-html-css-bootstrap
-
-https://app.netlify.com/user/labs
+https://gomummy.netlify.app/
